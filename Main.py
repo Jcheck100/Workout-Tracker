@@ -49,7 +49,7 @@ while True:
             # Append the exercise data to the exercises list
             exercises.append(exercise_data)
 
-# After data collection, save the exercises data to JSON file
+# After data collection, save the exercises data to exercisedata.json
 save_data(filename, exercises)
 
 # Makes dataframe so we can read data eaisily
