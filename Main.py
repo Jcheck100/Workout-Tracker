@@ -58,3 +58,9 @@ df = pd.DataFrame(exercises)
 # Prints the DataFrame to check what has been saved
 print("\nExercise Data:")
 print(df)
+
+#TODO
+#Make GUI
+#Represent Data Graphically
+#User/Password to make data more secure
+#Data Encyrption?
